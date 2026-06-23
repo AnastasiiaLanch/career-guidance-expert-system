@@ -180,10 +180,10 @@ function App() {
                 margin: 5,
                 padding: 8,
                 background: multiAnswer.includes(opt)
-                  ? "lightgreen"
+                  ? "lightblue"
                   : "white",
                 color: multiAnswer.includes(opt)
-                  ? "darkgreen"
+                  ? "darkblue"
                   : "black"
               }}
             >
