@@ -1,0 +1,34 @@
+{
+  "Technology": [
+    "Software Engineer",
+    "Data Scientist",
+    "AI Engineer",
+    "Cybersecurity Specialist"
+  ],
+  "Medicine": [
+    "Doctor",
+    "Surgeon",
+    "Pharmacist",
+    "Biotechnologist"
+  ],
+  "Engineering": [
+    "Mechanical Engineer",
+    "Civil Engineer",
+    "Electrical Engineer"
+  ],
+  "Business": [
+    "Economist",
+    "Accountant",
+    "Manager"
+  ],
+  "Creative": [
+    "Designer",
+    "Architect",
+    "Animator"
+  ],
+  "Social Sciences": [
+    "Teacher",
+    "Psychologist",
+    "Social Worker"
+  ]
+}

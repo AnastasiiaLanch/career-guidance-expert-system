@@ -1,0 +1,35 @@
+{
+  "Technology": [
+    "Computer Science",
+    "Software Engineering",
+    "Data Science",
+    "Artificial Intelligence",
+    "Cybersecurity"
+  ],
+  "Medicine": [
+    "Medicine",
+    "Pharmacy",
+    "Biotechnology",
+    "Biomedical Sciences"
+  ],
+  "Engineering": [
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Electrical Engineering"
+  ],
+  "Business": [
+    "Business Administration",
+    "Economics",
+    "Accounting and Finance"
+  ],
+  "Creative": [
+    "Architecture",
+    "Graphic Design",
+    "Animation"
+  ],
+  "Social Sciences": [
+    "Education",
+    "Psychology",
+    "Social Work"
+  ]
+}

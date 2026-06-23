@@ -1,0 +1,77 @@
+{
+  "subjects": {
+    "Mathematics": {
+      "Technology": 2,
+      "Engineering": 2,
+      "Business": 1
+    },
+    "Physics": {
+      "Engineering": 2,
+      "Technology": 2
+    },
+    "Biology": {
+      "Medicine": 2
+    },
+    "Chemistry": {
+      "Medicine": 2,
+      "Engineering": 1
+    },
+    "Computer Science": {
+      "Technology": 2
+    },
+    "Economics": {
+      "Business": 2
+    },
+    "Literature": {
+      "Creative": 2,
+      "Social Sciences": 1
+    },
+    "History": {
+      "Social Sciences": 2
+    },
+    "English": {
+      "Social Sciences": 2,
+      "Business": 1
+    }
+  },
+
+  "skills": {
+    "Analytical Thinking": {
+      "Technology": 2,
+      "Engineering": 2,
+      "Business": 1
+    },
+    "Teamwork": {
+      "Business": 2,
+      "Social Sciences": 1,
+      "Medicine": 1
+    },
+    "Attention to Detail": {
+      "Medicine": 2,
+      "Engineering": 2,
+      "Technology": 1
+    },
+    "Empathy": {
+      "Medicine": 2,
+      "Social Sciences": 1
+    },
+    "Creativity": {
+      "Creative": 2
+    },
+    "Programming": {
+      "Technology": 3
+    },
+    "Communication": {
+      "Social Sciences": 2,
+      "Business": 2
+    },
+    "Leadership": {
+      "Business": 2,
+      "Social Sciences": 1
+    },
+    "Problem Solving": {
+      "Technology": 2,
+      "Engineering": 2
+    }
+  }
+}

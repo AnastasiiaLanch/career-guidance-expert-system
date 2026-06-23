@@ -1,0 +1,57 @@
+{
+  "Technology": [
+    "Algorithms",
+    "Data Structures",
+    "Discrete Mathematics",
+    "Operating Systems",
+    "Databases",
+    "Linear Algebra",
+    "Statistics",
+    "Calculus",
+    "Probability",
+    "Numerical Methods"
+  ],
+
+  "Medicine": [
+    "Human Anatomy",
+    "Biochemistry",
+    "Genetics",
+    "Physiology",
+    "Pathology",
+    "Microbiology",
+    "Cell Biology"
+  ],
+
+  "Engineering": [
+    "Mechanics",
+    "Thermodynamics",
+    "Electromagnetism",
+    "Materials Science",
+    "Applied Mathematics"
+  ],
+
+  "Business": [
+    "Microeconomics",
+    "Macroeconomics",
+    "Finance",
+    "Statistics",
+    "Econometrics"
+  ],
+
+  "Creative": [
+    "Design Theory",
+    "Color Theory",
+    "Digital Media",
+    "Art History",
+    "Visual Communication"
+  ],
+
+  "Social Sciences": [
+    "Sociology",
+    "Psychology Basics",
+    "Political Science",
+    "Anthropology",
+    "Communication Studies",
+    "Ecology"
+  ]
+}
