@@ -84,27 +84,27 @@ Recommendation Engine
 src/
 
 ├── main.py
-
+│
 ├── questionnaire/
 │   ├── questions.py
 │   └── engine.py
-
+│
 ├── student_profile/
 │   └── builder.py
-
+│
 ├── domain_scorer/
 │   └── scorer.py
-
+│
 ├── rule_engine/
 │   ├── rules.py
 │   └── engine.py
-
+│
 ├── confidence_scorer/
 │   └── scorer.py
-
+│
 ├── recommendation/
 │   └── engine.py
-
+│
 ├── knowledge_base/
 │   ├── loader.py
 │   ├── subjects.json
@@ -116,7 +116,7 @@ src/
 │   ├── degree_programs.json
 │   ├── recommended_subjects.json
 │   └── careers.json
-
+│
 └── frontend/
     ├── src/
     │   ├── api.js
