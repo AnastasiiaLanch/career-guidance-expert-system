@@ -488,6 +488,31 @@ Swagger documentation:
 http://127.0.0.1:8000/docs
 ```
 
+## main.py
+
+```text
+src/main.py
+```
+
+Application entry point.
+
+Responsible for:
+
+* FastAPI application configuration;
+* CORS configuration;
+* API endpoint definition;
+* questionnaire management;
+* integration of all expert system modules:
+
+  * Questionnaire Engine;
+  * Student Profile Builder;
+  * Domain Scorer;
+  * Rule Engine;
+  * Confidence Scorer;
+  * Recommendation Engine.
+
+The file orchestrates the complete recommendation pipeline:
+
 ---
 
 # Frontend
